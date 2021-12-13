@@ -26,23 +26,23 @@
 
 <p>
    <a href="https://twitter.com/SHIVAMSINGH4458">
-    <img align="left" src="https://raw.githubusercontent.com/ShivamSingh-MZP/ShivamSingh-MZP/5604a09025392c73fc35b8589807b82c3b585d17/Images/twitter.svg" width="32px"  />
+    <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/twitter.svg" width="32px"  />
   </a>
   <a href="mailto:shivamsingh4458@gmail.com">
-    <img align="left" src="https://github.com/ShivamSingh-MZP/ShivamSingh-MZP/blob/main/Images/mail.png?raw=true" width="32px"  />
+    <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/mail.png?raw=true" width="32px"  />
   </a>
  <a href="https://medium.com/@shivamsingh4458">
-    <img align="left" src="https://raw.githubusercontent.com/ShivamSingh-MZP/ShivamSingh-MZP/5604a09025392c73fc35b8589807b82c3b585d17/Images/medium.svg" width="32px"  />
+    <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/medium.svg" width="32px"  />
   </a>
   <a href="https://www.linkedin.com/in/shivam-singh-05050a1a0/">
-    <img align="left" src="https://raw.githubusercontent.com/ShivamSingh-MZP/ShivamSingh-MZP/5604a09025392c73fc35b8589807b82c3b585d17/Images/linked-in-alt.svg" width="28px" />
+    <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/linked-in-alt.svg" width="28px" />
   </a>
-  <a href="https://leetcode.com/ShivamSingh-MZP/">
-    <img align="left" src="https://github.com/ShivamSingh-MZP/ShivamSingh-MZP/blob/main/Images/leetcode.png?raw=true" width="24px"  />
+  <a href="https://leetcode.com/shivam-singh-au17/">
+    <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/leetcode.png?raw=true" width="24px"  />
   </a>
 </p>
 
-<img src ="https://github.com/ShivamSingh-MZP/ShivamSingh-MZP/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
+<img src ="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
 
 <br>
 <br>
